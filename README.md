@@ -2,6 +2,8 @@
 
 **Solution Architect and Cloud & Platform Security Leader focused on secure infrastructure, identity-driven access, and practical automation.**
 
+**Focus areas:** AWS · Private/hybrid cloud · Kubernetes · Zero Trust & IAM · PKI · Observability & SIEM · Infrastructure automation.
+
 I share implementation lessons, troubleshooting guides, and architecture studies covering private cloud, Zero Trust, PKI, and email security. My focus is on the decisions behind a setup: how access is controlled, how failures are handled, and what makes a platform maintainable.
 
 ## Selected work
