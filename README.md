@@ -6,6 +6,8 @@
 
 **Focus areas:** Solution architecture · AWS · Private/hybrid cloud · Kubernetes · Virtualization & storage · Infrastructure automation & Terraform · Observability & SIEM · Zero Trust & IAM · PKI.
 
+I bring 19+ years of experience across infrastructure, cloud platforms, networking, and security, combining hands-on engineering with technical leadership.
+
 I share implementation lessons, troubleshooting guides, and architecture studies across AWS, private and hybrid cloud, virtualization, storage, Kubernetes, automation, and security. My focus is on turning service requirements into practical designs: choosing the right components, balancing performance and cost, planning for growth and failure, and making platforms easier to deploy and maintain.
 
 ## Selected work
