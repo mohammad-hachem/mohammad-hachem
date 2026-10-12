@@ -1,6 +1,6 @@
 # Mohammad Hachem
 
-**Cloud and platform security leader focused on secure infrastructure, identity-driven access, and practical automation.**
+**Solution Architect and Cloud & Platform Security Leader focused on secure infrastructure, identity-driven access, and practical automation.**
 
 I share implementation lessons, troubleshooting guides, and architecture studies covering private cloud, Zero Trust, PKI, and email security. My focus is on the decisions behind a setup: how access is controlled, how failures are handled, and what makes a platform maintainable.
 
